@@ -25,9 +25,6 @@ int main() {
         printf("4 - Sair\n");
         scanf("%d", &opcao);
 
-        
-	 
-		
 		switch(opcao) {
             case 1:
             	opcao2=1;
@@ -82,7 +79,6 @@ int main() {
 				 scanf("%i", &opcao2);
 				 
 			 }
-	
    	   	   	   break;
             
 				case 2:
