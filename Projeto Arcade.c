@@ -4,23 +4,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-<<<<<<< HEAD
-int main() {
-     int j1;//Receber o comando para o jogo
-     int pergunta1; //Usada para receber a resposta da primeira pergunta
-     int pergunta2; //Usada para receber a resposta da segunda pergunta
-     int pergunta3; //Usada para receber a resposta da terceira pergunta
-     int pergunta4; //Usada para receber a resposta da quarta pergunta
-     int j2; //Receber o comando para o jogo
-     int j3; //Receber o comando para o jogo
-     int opcao; //Receber as opcoes
-     int opcao2;
-     
-    while(opcao!=4) {
-    	opcao=1;
-		//Comando de opções para os jogos 
-		printf("Escolha uma opcao:\n");
-=======
 int main()
 {
     int j1;        // Receber o comando para o jogo
@@ -38,7 +21,6 @@ int main()
         opcao = 1;
         // Comando de opções para os jogos
         printf("Escolha uma opcao:\n");
->>>>>>> 57a1435 (Adição readme e indentação do código)
         printf("1 - Pergunta e resposta\n");
         printf("2 - Cobra na caixa\n");
         printf("3 - Gousmas War \n");
